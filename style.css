@@ -1,0 +1,57 @@
+a{
+    text-decoration: none;
+    color:#fff;
+}
+.menu-bar{
+    background-color: #777;
+    overflow:auto;
+    position: fixed;
+    width:100%;
+}
+.menu-bar a{
+    padding:12px;
+    display:inline-block;
+    font-size: 18px;
+    float:left;
+}
+.menu-bar a:hover{
+    background-color: #000;
+
+}
+.menu-bar a.active{
+    background-color:teal;
+}
+body{
+    background-color: rgb(191, 139, 240);
+    margin: 0%;
+}
+i{
+    margin-right: 10px;
+}
+.img1{
+    margin-top: 48px;
+    
+    
+}
+.text1{
+    margin-top: 48px;
+    display: inline;
+}
+.cover div{
+    display: inline-block;
+    height: 400px;
+}
+.left {
+    width:400px;
+    background-color:  #ccc;
+    float : left;
+}
+.right {
+    width: 600px;
+    height: 48px;
+}
+.text1{
+    margin-top: 25px;
+    font-family: 'Hi Melody', cursive;
+    font-size: 30px;
+}
